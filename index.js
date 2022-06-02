@@ -39,7 +39,6 @@ function infor (){
     infor += "\n Tipo de nave: " + nave.tipoNave
     infor += "\n Velocidade da nave: " + nave.acelerar + " km/s"
     console.log(infor)
-    alert(infor)
 }
 
 addInfor()
